@@ -47,11 +47,11 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ### 🤖 AI/ML
 
 <div align="center">
-  <img src="portfolios/ai/korra-ai.png" width="800" alt="Korra AI" />
+  <img src="../portfolios/ai/korra-ai.png" width="800" alt="Korra AI" />
 </div>
 
 <div align="center">
-  <img src="portfolios/ai/surrat-ai.png" width="800" alt="Surrat AI" />
+  <img src="../portfolios/ai/surrat-ai.png" width="800" alt="Surrat AI" />
 </div>
 
 ---
@@ -59,11 +59,11 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ### 🌱 PHP (Laravel)
 
 <div align="center">
-  <img src="portfolios/php/growtoro.png" width="800" alt="Growtoro" />
+  <img src="../portfolios/php/growtoro.png" width="800" alt="Growtoro" />
 </div>
 
 <div align="center">
-  <img src="portfolios/php/lensix.png" width="800" alt="Lensix" />
+  <img src="../portfolios/php/lensix.png" width="800" alt="Lensix" />
 </div>
 
 ---
@@ -71,11 +71,11 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ### ⚡ JavaScript (TypeScript)
 
 <div align="center">
-  <img src="portfolios/javascript/b2b-rocket.png" width="800" alt="B2B Rocket" />
+  <img src="../portfolios/javascript/b2b-rocket.png" width="800" alt="B2B Rocket" />
 </div>
 
 <div align="center">
-  <img src="portfolios/javascript/bib.png" width="800" alt="BIB" />
+  <img src="../portfolios/javascript/bib.png" width="800" alt="BIB" />
 </div>
 
 ---
@@ -83,11 +83,11 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ### 🐍 Python (Django / Flask)
 
 <div align="center">
-  <img src="portfolios/python/nexivent.png" width="800" alt="Nexivent" />
+  <img src="../portfolios/python/nexivent.png" width="800" alt="Nexivent" />
 </div>
 
 <div align="center">
-  <img src="portfolios/python/virtual-investor-pal.png" width="800" alt="Virtual Investor Pal" />
+  <img src="../portfolios/python/virtual-investor-pal.png" width="800" alt="Virtual Investor Pal" />
 </div>
 
 ---
@@ -95,11 +95,11 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ### 📱 Mobile Application
 
 <div align="center">
-  <img src="portfolios/mobile/handy-man.png" width="800" alt="Handy Man" />
+  <img src="../portfolios/mobile/handy-man.png" width="800" alt="Handy Man" />
 </div>
 
 <div align="center">
-  <img src="portfolios/mobile/neo-tech.png" width="800" alt="Neo Tech" />
+  <img src="../portfolios/mobile/neo-tech.png" width="800" alt="Neo Tech" />
 </div>
 
 ---
