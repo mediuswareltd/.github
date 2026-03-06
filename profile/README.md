@@ -7,7 +7,7 @@
 <!-- BADGES ROW -->
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Mediusware.com-00d4aa?style=for-the-badge&logoColor=white)](https://mediusware.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mediusware)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mediuswareltd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaheen2013)
 [![Blogs](https://img.shields.io/badge/📰_Blogs-FF6F00?style=for-the-badge)](https://mediusware.com/blog)
 
 </div>
@@ -172,22 +172,22 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/mediuswareltd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mediuswareltd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
+  <a href="https://github.com/shaheen2013">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaheen2013&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/mediuswareltd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mediuswareltd&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/mediuswareltd">
-    <img src="https://streak-stats.demolab.com/?user=mediuswareltd&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  <a href="https://github.com/shaheen2013">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaheen2013&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mediuswareltd&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" width="95%" />
+  <a href="https://github.com/shaheen2013">
+    <img src="https://streak-stats.demolab.com/?user=shaheen2013&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheen2013&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" width="95%" />
 </div>
 
 <br/>
@@ -214,7 +214,7 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 
 > **Mediusware Ltd** — Tech, tutorials & updates from the team.
 >
-> [**▶ Subscribe @ Mediusware →**](https://www.youtube.com/@mediuswareltd)
+> [**▶ Subscribe @ Mediusware →**](https://www.youtube.com/@shaheen2013)
 
 </div>
 
@@ -228,7 +228,7 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 [![Website](https://img.shields.io/badge/Mediusware.com-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mediusware.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mediusware)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mediusware)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mediuswareltd)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaheen2013)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sales@mediusware.com)
 
 </div>
