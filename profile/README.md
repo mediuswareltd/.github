@@ -172,22 +172,22 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/shaheen2013">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaheen2013&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
+  <a href="https://github.com/mediuswareltd">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mediuswareltd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" />
   </a>
-  <a href="https://github.com/shaheen2013">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shaheen2013&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/shaheen2013">
-    <img src="https://streak-stats.demolab.com/?user=shaheen2013&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  <a href="https://github.com/mediuswareltd">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mediuswareltd&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheen2013&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" width="95%" />
+  <a href="https://github.com/mediuswareltd">
+    <img src="https://streak-stats.demolab.com/?user=mediuswareltd&theme=algolia&hide_border=true&background=0d1117&stroke=00d4aa&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mediuswareltd&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4aa&line=00d4aa&point=ffffff&area=true&area_color=00d4aa" width="95%" />
 </div>
 
 <br/>
