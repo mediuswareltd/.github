@@ -106,7 +106,7 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/View_our_work-00d4aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mediusware)
+[![GitHub](https://img.shields.io/badge/View_our_work-00d4aa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mediuswareltd)
 
 </div>
 
