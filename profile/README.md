@@ -249,5 +249,5 @@ vision: Become Bangladesh's #1 globally trusted software brand.
 
 <div align="center">
   <b>💡 Your Global Tech Partner</b><br/><br/>
-  <sub>⚡ Software Development · AI/ML · Web & Mobile · UI/UX · Dhaka, Bangladesh</sub>
+  <sub>⚡ Software Development · AI/ML · Web & Mobile · UI/UX </sub>
 </div>
